@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyKotlin</string>
+    <string name="counter_text">카운트: %d</string>
+    <string name="increment">증가</string>
+    <string name="reset">리셋</string>
+</resources> 
